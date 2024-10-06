@@ -236,5 +236,12 @@ for (int i = 0; i < 1000; i++) {
 }
 String s = sb.toString();
 \end{lstlisting}
-喵的，第三方又或者是第一方的包有什么好讲的，等用得到再说吧
+喵的，第三方又或者是第一方的包有什么好讲的，等用得到再说吧、
+\section{异常处理}
+捕获异常使用try...catch语句，把可能发生异常的代码放到try {...}中，然后使用catch捕获对应的Exception及其子类：
+可以使用多个catch语句，每个catch分别捕获对应的Exception及其子类。JVM在捕获到异常后，会从上到下匹配catch语句，匹配到某个catch后，执行catch代码块，然后不再继续匹配。
+简单地说就是：多个catch语句只有一个能被执行。
+无论发生或者不发生，都可以用finally在最后执行
+\subsection{抛出异常}
+throw new xxxxx（）
 \end{document}

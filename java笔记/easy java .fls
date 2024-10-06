@@ -1,8 +1,8 @@
-PWD e:/java笔记
+PWD e:/github/java笔记
 INPUT d:/latex/texlive/2024/texmf.cnf
 INPUT d:/latex/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT d:/latex/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT e:/java笔记/easy java .tex
+INPUT e:/github/java笔记/easy java .tex
 OUTPUT easy java .log
 INPUT d:/latex/texlive/2024/texmf-dist/tex/latex/ctex/ctexbook.cls
 INPUT d:/latex/texlive/2024/texmf-dist/tex/latex/ctex/ctexbook.cls
@@ -284,7 +284,18 @@ INPUT d:/latex/texlive/2024/texmf-dist/tex/latex/base/omlcmr.fd
 INPUT d:/latex/texlive/2024/texmf-dist/tex/latex/base/omlcmr.fd
 INPUT d:/latex/texlive/2024/texmf-dist/tex/latex/base/omlcmr.fd
 INPUT d:/latex/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT d:/latex/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei74.tfm
+INPUT d:/latex/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei51.tfm
+INPUT d:/latex/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei5f.tfm
+INPUT d:/latex/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongsl5f.tfm
+INPUT d:/latex/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongsl59.tfm
+INPUT d:/latex/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongsl74.tfm
 INPUT easy java .aux
+INPUT c:/Windows/Fonts/simhei.ttf
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
